@@ -1,0 +1,5 @@
+C:\Users\joshua.rios\OneDrive - Avantax, Inc\Documents\New Firm - FA\Resumes\EaTestAutomation\EaTestAutomation\EaSpecflowTests\obj\Debug\net7.0\EaSpecflowTests.csproj.AssemblyReference.cache
+C:\Users\joshua.rios\OneDrive - Avantax, Inc\Documents\New Firm - FA\Resumes\EaTestAutomation\EaTestAutomation\EaSpecflowTests\obj\Debug\net7.0\EaSpecflowTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua.rios\OneDrive - Avantax, Inc\Documents\New Firm - FA\Resumes\EaTestAutomation\EaTestAutomation\EaSpecflowTests\obj\Debug\net7.0\EaSpecflowTests.AssemblyInfoInputs.cache
+C:\Users\joshua.rios\OneDrive - Avantax, Inc\Documents\New Firm - FA\Resumes\EaTestAutomation\EaTestAutomation\EaSpecflowTests\obj\Debug\net7.0\EaSpecflowTests.AssemblyInfo.cs
+C:\Users\joshua.rios\OneDrive - Avantax, Inc\Documents\New Firm - FA\Resumes\EaTestAutomation\EaTestAutomation\EaSpecflowTests\obj\Debug\net7.0\EaSpecflowTests.csproj.CoreCompileInputs.cache
